@@ -39,9 +39,3 @@ This library provides a dual-timer system for millisecond counting on tested ATm
 - `millis_secondary()`: Get milliseconds from Timer2
 - `reset_millis()`: Reset Timer1 counter
 - `reset_millis_secondary()`: Reset Timer2 counter
-
-[Your Name or Username]
-
-## Contribution
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page] if you want to contribute.
