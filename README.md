@@ -1,8 +1,5 @@
 # dual-avr-millis
-dual-timer millisecond library for microcontrollers, tested for ATmega328P. Utilizes Timer1 and Timer2 for timekeeping in AVR projects.
-# Dual Timer Millis Library for ATmega328P
-
-This library provides a precise dual-timer system for millisecond counting on tested ATmega328P microcontrollers. It utilizes both Timer1 and Timer2 to offer two independent millisecond counters.
+This library provides a dual-timer system for millisecond counting on tested ATmega328P microcontrollers. It utilizes both Timer1 and Timer2 to offer two independent millisecond counters.
 
 ## Files
 
